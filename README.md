@@ -1,4 +1,4 @@
-# ❄️ Chilling space ❄️
+<h1 align="center">❄️ Chilling space ❄️</h1>
 Junior @ Ho Chi Minh City of Technology, CSE department
 
 * 😎 Seasoned leetcoder 👉 [Let's duel](https://leetcode.com/u/xuantho573/)
