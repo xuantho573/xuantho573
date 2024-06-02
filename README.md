@@ -1,4 +1,12 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&random=false&width=640&height=48&lines=%E2%9D%84%EF%B8%8F+My+chilling+space+%E2%9D%84%EF%B8%8F)](https://git.io/typing-svg)
+</div>
+
+<!--
 <h1 align="center">❄️ Chilling space ❄️</h1>
+-->
+<h2>About me</h2>
 
 * Junior @ Ho Chi Minh City of Technology, CSE department
 * Intern @ Holistics
