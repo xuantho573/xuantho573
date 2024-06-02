@@ -8,10 +8,10 @@
 -->
 
 <a href="https://github.com/xuantho573">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=xuantho573&theme=tokyonight&show_icons=true" />
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=xuantho573&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/xuantho573">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantho573&theme=tokyonight&show_icons=true&layout=compact" />
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantho573&theme=tokyonight&show_icons=true&layout=compact" />
 </a>
 
 <!--
