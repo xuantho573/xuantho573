@@ -17,9 +17,9 @@
 <!--<img src="https://myreadme.vercel.app/api/embed/xuantho573?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 -->
 <p align="center">
-  <img  height=200 src="https://github-readme-stats.vercel.app/api?username=xuantho573&theme=tokyonight&show_icons=true&bg_color=00000000" />
-  <img  height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantho573&theme=tokyonight&show_icons=true&layout=compact&bg_color=00000000" />
-  <img height=200 src="https://streak-stats.demolab.com?user=xuantho573&theme=tokyonight&card_width=480&background=00000000" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=xuantho573&theme=tokyonight&show_icons=true&bg_color=00000000" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantho573&theme=tokyonight&show_icons=true&layout=compact&bg_color=00000000" />
+  <img height=160 src="https://streak-stats.demolab.com?user=xuantho573&theme=tokyonight&card_width=480&background=00000000" />
 </p>
 
 
