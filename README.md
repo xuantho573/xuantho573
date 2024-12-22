@@ -18,12 +18,12 @@
 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" height=160 srcset="https://github-readme-stats.vercel.app/api?username=xuantho573&theme=catppuccin_macchiato&show_icons=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: dark)" height=160 srcset="https://github-readme-stats.vercel.app/api?username=xuantho573&theme=catppuccin_macchiato&show_icons=true&bg_color=00000000&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" />
     <img height=160 src="https://github-readme-stats.vercel.app/api?username=xuantho573&theme=catppuccin_latte&show_icons=true&bg_color=00000000" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" height=160 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantho573&theme=catppuccin_macchiato&show_icons=true&layout=compact&bg_color=00000000" />
+    <source media="(prefers-color-scheme: dark)" height=160 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantho573&theme=catppuccin_macchiato&show_icons=true&layout=compact&bg_color=00000000&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" />
     <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantho573&theme=catppuccin_latte&show_icons=true&layout=compact&bg_color=00000000" />
   </picture>
 
