@@ -17,9 +17,20 @@
 <!--<img src="https://myreadme.vercel.app/api/embed/xuantho573?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 -->
 <p align="center">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=xuantho573&theme=tokyonight&show_icons=true&bg_color=00000000" />
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantho573&theme=tokyonight&show_icons=true&layout=compact&bg_color=00000000" />
-  <img height=160 src="https://streak-stats.demolab.com?user=xuantho573&theme=tokyonight&card_width=480&background=00000000" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height=160 srcset="https://github-readme-stats.vercel.app/api?username=xuantho573&theme=catppuccin_macchiato&show_icons=true&bg_color=00000000" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=xuantho573&theme=catppuccin_latte&show_icons=true&bg_color=00000000" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height=160 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantho573&theme=catppuccin_macchiato&show_icons=true&layout=compact&bg_color=00000000" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantho573&theme=catppuccin_latte&show_icons=true&layout=compact&bg_color=00000000" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height=160 srcset="https://streak-stats.demolab.com?user=xuantho573&theme=catppuccin-macchiato&card_width=480&background=00000000" />
+    <img height=160 src="https://streak-stats.demolab.com?user=xuantho573&theme=catppuccin-latte&card_width=480&background=00000000" />
+  </picture>
 </p>
 
 
