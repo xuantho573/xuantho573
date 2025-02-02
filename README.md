@@ -8,8 +8,8 @@
 -->
 ## About me
 
-* 🏫 Senior year student @ Ho Chi Minh City of Technology, CSE department
-* 🏢 Full-stack engineer @ Holistics
+* 🏫 Senior year student @ [Ho Chi Minh City of Technology, CSE department](https://www.cse.hcmut.edu.vn/en)
+* 🏢 Full-stack engineer @ [Holistics](https://www.holistics.io/)
 * 🧑‍💻 Seasoned leetcoder 👉 [Let's duel](https://leetcode.com/u/xuantho573/)
 
 ## My stats
